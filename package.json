@@ -21,11 +21,11 @@
     "ts-morph": "^26.0.0"
   },
   "devDependencies": {
-    "@types/jest": "^29.5.14",
-    "jest": "^29.7.0",
-    "ts-jest": "^29.3.4",
-    "typescript": "^5.8.3",
-    "webpack": "^5.99.9"
+    "@types/jest": "^30.0.0",
+    "jest": "^30.0.5",
+    "ts-jest": "^29.4.1",
+    "typescript": "^5.9.2",
+    "webpack": "^5.101.2"
   },
   "peerDependencies": {
     "webpack": ">=5.0.0"

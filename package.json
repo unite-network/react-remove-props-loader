@@ -3,7 +3,7 @@
   "version": "1.2.18",
   "description": "Webpack loader for removing React props or JSX attributes in TypeScript/JavaScript code.",
   "main": "dist/index",
-  "repository": "https://github.com/Mercateo/react-remove-props-loader.git",
+  "repository": "https://github.com/unite-network/react-remove-props-loader.git",
   "author": "Fawad Ali <m.fawaadali98@gmail.com>",
   "license": "MIT",
   "files": [

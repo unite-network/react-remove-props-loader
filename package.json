@@ -21,12 +21,12 @@
     "ts-morph": "^28.0.0"
   },
   "devDependencies": {
-    "@swc/core": "^1.16.1",
+    "@swc/core": "^1.16.18",
     "@swc/jest": "^0.2.39",
     "@types/jest": "^30.0.0",
-    "jest": "^30.5.0",
+    "jest": "^30.5.2",
     "typescript": "^7.0.2",
-    "webpack": "^5.110.1"
+    "webpack": "^5.111.1"
   },
   "peerDependencies": {
     "webpack": ">=5.0.0"
